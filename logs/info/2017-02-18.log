@@ -1,0 +1,140 @@
+19:25:15.645 [main] INFO  SWIFT - 第 0 次取数据操作消耗时间: 4789ms
+19:25:17.316 [main] INFO  SWIFT - 第 1 次取数据操作消耗时间: 138ms
+19:25:17.374 [main] INFO  SWIFT - 第 2 次取数据操作消耗时间: 57ms
+19:25:17.457 [main] INFO  SWIFT - 第 3 次取数据操作消耗时间: 83ms
+19:25:17.528 [main] INFO  SWIFT - 第 4 次取数据操作消耗时间: 71ms
+19:25:17.585 [main] INFO  SWIFT - 第 5 次取数据操作消耗时间: 57ms
+19:25:17.651 [main] INFO  SWIFT - 第 6 次取数据操作消耗时间: 66ms
+19:25:17.707 [main] INFO  SWIFT - 第 7 次取数据操作消耗时间: 56ms
+19:25:17.762 [main] INFO  SWIFT - 第 8 次取数据操作消耗时间: 55ms
+19:25:17.824 [main] INFO  SWIFT - 第 9 次取数据操作消耗时间: 62ms
+19:25:17.882 [main] INFO  SWIFT - 第 10 次取数据操作消耗时间: 58ms
+19:25:17.938 [main] INFO  SWIFT - 第 11 次取数据操作消耗时间: 56ms
+19:25:18.007 [main] INFO  SWIFT - 第 12 次取数据操作消耗时间: 68ms
+19:25:18.061 [main] INFO  SWIFT - 第 13 次取数据操作消耗时间: 54ms
+19:25:18.115 [main] INFO  SWIFT - 第 14 次取数据操作消耗时间: 54ms
+19:25:18.175 [main] INFO  SWIFT - 第 15 次取数据操作消耗时间: 60ms
+19:25:18.230 [main] INFO  SWIFT - 第 16 次取数据操作消耗时间: 55ms
+19:25:18.299 [main] INFO  SWIFT - 第 17 次取数据操作消耗时间: 69ms
+19:25:18.359 [main] INFO  SWIFT - 第 18 次取数据操作消耗时间: 60ms
+19:25:18.421 [main] INFO  SWIFT - 第 19 次取数据操作消耗时间: 61ms
+19:25:18.484 [main] INFO  SWIFT - 第 20 次取数据操作消耗时间: 63ms
+19:25:18.548 [main] INFO  SWIFT - 第 21 次取数据操作消耗时间: 64ms
+19:25:18.606 [main] INFO  SWIFT - 第 22 次取数据操作消耗时间: 57ms
+19:25:18.660 [main] INFO  SWIFT - 第 23 次取数据操作消耗时间: 54ms
+19:25:18.724 [main] INFO  SWIFT - 第 24 次取数据操作消耗时间: 64ms
+19:25:18.792 [main] INFO  SWIFT - 第 25 次取数据操作消耗时间: 67ms
+19:25:18.850 [main] INFO  SWIFT - 第 26 次取数据操作消耗时间: 58ms
+19:25:18.904 [main] INFO  SWIFT - 第 27 次取数据操作消耗时间: 53ms
+19:25:18.962 [main] INFO  SWIFT - 第 28 次取数据操作消耗时间: 58ms
+19:25:19.019 [main] INFO  SWIFT - 第 29 次取数据操作消耗时间: 57ms
+19:25:19.079 [main] INFO  SWIFT - 第 30 次取数据操作消耗时间: 60ms
+19:25:20.358 [main] INFO  SWIFT - 第 31 次取数据操作消耗时间: 1279ms
+19:25:20.424 [main] INFO  SWIFT - 第 32 次取数据操作消耗时间: 65ms
+19:25:20.478 [main] INFO  SWIFT - 第 33 次取数据操作消耗时间: 53ms
+19:25:20.538 [main] INFO  SWIFT - 第 34 次取数据操作消耗时间: 60ms
+19:25:20.598 [main] INFO  SWIFT - 第 35 次取数据操作消耗时间: 59ms
+19:25:20.660 [main] INFO  SWIFT - 第 36 次取数据操作消耗时间: 61ms
+19:25:20.718 [main] INFO  SWIFT - 第 37 次取数据操作消耗时间: 57ms
+19:25:20.772 [main] INFO  SWIFT - 第 38 次取数据操作消耗时间: 54ms
+19:25:20.843 [main] INFO  SWIFT - 第 39 次取数据操作消耗时间: 71ms
+19:25:20.897 [main] INFO  SWIFT - 第 40 次取数据操作消耗时间: 54ms
+19:25:20.950 [main] INFO  SWIFT - 第 41 次取数据操作消耗时间: 53ms
+19:25:21.012 [main] INFO  SWIFT - 第 42 次取数据操作消耗时间: 61ms
+19:25:21.068 [main] INFO  SWIFT - 第 43 次取数据操作消耗时间: 56ms
+19:25:21.122 [main] INFO  SWIFT - 第 44 次取数据操作消耗时间: 54ms
+19:25:21.180 [main] INFO  SWIFT - 第 45 次取数据操作消耗时间: 58ms
+19:25:21.235 [main] INFO  SWIFT - 第 46 次取数据操作消耗时间: 55ms
+19:25:21.300 [main] INFO  SWIFT - 第 47 次取数据操作消耗时间: 65ms
+19:25:21.356 [main] INFO  SWIFT - 第 48 次取数据操作消耗时间: 56ms
+19:25:21.408 [main] INFO  SWIFT - 第 49 次取数据操作消耗时间: 52ms
+19:25:21.461 [main] INFO  SWIFT - 第 50 次取数据操作消耗时间: 53ms
+19:25:21.514 [main] INFO  SWIFT - 第 51 次取数据操作消耗时间: 53ms
+19:25:21.570 [main] INFO  SWIFT - 第 52 次取数据操作消耗时间: 56ms
+19:25:21.624 [main] INFO  SWIFT - 第 53 次取数据操作消耗时间: 53ms
+19:25:21.678 [main] INFO  SWIFT - 第 54 次取数据操作消耗时间: 54ms
+19:25:21.734 [main] INFO  SWIFT - 第 55 次取数据操作消耗时间: 56ms
+19:25:21.787 [main] INFO  SWIFT - 第 56 次取数据操作消耗时间: 53ms
+19:25:21.843 [main] INFO  SWIFT - 第 57 次取数据操作消耗时间: 56ms
+19:25:21.905 [main] INFO  SWIFT - 第 58 次取数据操作消耗时间: 61ms
+19:25:21.960 [main] INFO  SWIFT - 第 59 次取数据操作消耗时间: 54ms
+19:25:22.023 [main] INFO  SWIFT - 第 60 次取数据操作消耗时间: 63ms
+19:25:22.088 [main] INFO  SWIFT - 第 61 次取数据操作消耗时间: 65ms
+19:25:22.142 [main] INFO  SWIFT - 第 62 次取数据操作消耗时间: 53ms
+19:25:22.200 [main] INFO  SWIFT - 第 63 次取数据操作消耗时间: 57ms
+19:25:22.253 [main] INFO  SWIFT - 第 64 次取数据操作消耗时间: 53ms
+19:25:22.308 [main] INFO  SWIFT - 第 65 次取数据操作消耗时间: 55ms
+19:25:22.362 [main] INFO  SWIFT - 第 66 次取数据操作消耗时间: 53ms
+19:25:22.417 [main] INFO  SWIFT - 第 67 次取数据操作消耗时间: 55ms
+19:25:22.477 [main] INFO  SWIFT - 第 68 次取数据操作消耗时间: 59ms
+19:25:22.551 [main] INFO  SWIFT - 第 69 次取数据操作消耗时间: 74ms
+19:25:22.616 [main] INFO  SWIFT - 第 70 次取数据操作消耗时间: 65ms
+19:25:22.676 [main] INFO  SWIFT - 第 71 次取数据操作消耗时间: 60ms
+19:25:22.730 [main] INFO  SWIFT - 第 72 次取数据操作消耗时间: 54ms
+19:25:22.789 [main] INFO  SWIFT - 第 73 次取数据操作消耗时间: 59ms
+19:25:22.843 [main] INFO  SWIFT - 第 74 次取数据操作消耗时间: 54ms
+19:25:22.897 [main] INFO  SWIFT - 第 75 次取数据操作消耗时间: 54ms
+19:25:22.967 [main] INFO  SWIFT - 第 76 次取数据操作消耗时间: 69ms
+19:25:23.038 [main] INFO  SWIFT - 第 77 次取数据操作消耗时间: 71ms
+19:25:23.092 [main] INFO  SWIFT - 第 78 次取数据操作消耗时间: 54ms
+19:25:23.149 [main] INFO  SWIFT - 第 79 次取数据操作消耗时间: 57ms
+19:25:23.214 [main] INFO  SWIFT - 第 80 次取数据操作消耗时间: 65ms
+19:25:23.274 [main] INFO  SWIFT - 第 81 次取数据操作消耗时间: 60ms
+19:25:26.520 [main] INFO  SWIFT - 第 82 次取数据操作消耗时间: 3245ms
+19:25:28.054 [main] INFO  SWIFT - 第 83 次取数据操作消耗时间: 1534ms
+19:25:28.114 [main] INFO  SWIFT - 第 84 次取数据操作消耗时间: 60ms
+19:25:28.183 [main] INFO  SWIFT - 第 85 次取数据操作消耗时间: 69ms
+19:25:28.245 [main] INFO  SWIFT - 第 86 次取数据操作消耗时间: 61ms
+19:25:28.301 [main] INFO  SWIFT - 第 87 次取数据操作消耗时间: 56ms
+19:25:28.358 [main] INFO  SWIFT - 第 88 次取数据操作消耗时间: 57ms
+19:25:28.416 [main] INFO  SWIFT - 第 89 次取数据操作消耗时间: 58ms
+19:25:28.480 [main] INFO  SWIFT - 第 90 次取数据操作消耗时间: 64ms
+19:25:28.534 [main] INFO  SWIFT - 第 91 次取数据操作消耗时间: 53ms
+19:25:28.593 [main] INFO  SWIFT - 第 92 次取数据操作消耗时间: 59ms
+19:25:28.646 [main] INFO  SWIFT - 第 93 次取数据操作消耗时间: 53ms
+19:25:28.699 [main] INFO  SWIFT - 第 94 次取数据操作消耗时间: 53ms
+19:25:28.762 [main] INFO  SWIFT - 第 95 次取数据操作消耗时间: 63ms
+19:25:28.823 [main] INFO  SWIFT - 第 96 次取数据操作消耗时间: 61ms
+19:25:28.877 [main] INFO  SWIFT - 第 97 次取数据操作消耗时间: 54ms
+19:25:28.934 [main] INFO  SWIFT - 第 98 次取数据操作消耗时间: 57ms
+19:25:28.997 [main] INFO  SWIFT - 第 99 次取数据操作消耗时间: 63ms
+19:25:29.026 [main] INFO  SWIFT - 当前线程，数据获取耗时：26ms
+19:25:29.026 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.026 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.027 [main] INFO  SWIFT - 当前线程，数据获取耗时：1ms
+19:25:29.027 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.028 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.028 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.028 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.029 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.029 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.029 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.030 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.030 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.030 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.031 [main] INFO  SWIFT - 当前线程，数据获取耗时：1ms
+19:25:29.031 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.032 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.032 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.033 [main] INFO  SWIFT - 当前线程，数据获取耗时：1ms
+19:25:29.033 [main] INFO  SWIFT - 当前线程，数据获取耗时：0ms
+19:25:29.284 [Thread-18] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.292 [Thread-8] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.290 [Thread-4] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.289 [Thread-9] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.293 [Thread-20] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.288 [Thread-13] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.288 [Thread-21] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.287 [Thread-22] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.286 [Thread-17] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.293 [Thread-16] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.285 [Thread-14] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.287 [Thread-6] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.285 [Thread-7] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.286 [Thread-11] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.285 [Thread-10] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.336 [Thread-5] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.358 [Thread-19] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.358 [Thread-12] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.358 [Thread-15] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
+19:25:29.358 [Thread-23] INFO  SWIFT - Cache Not Found! key: cache.data.DataDao.multi(int,int,int).1,2000,2000
